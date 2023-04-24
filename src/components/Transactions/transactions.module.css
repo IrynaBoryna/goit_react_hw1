@@ -1,0 +1,43 @@
+.table {
+    width: 1050px;
+}
+
+
+.tableHead,
+.tableHeadType,
+.tableBody,
+.tableBodyType {
+    width: 350px;
+    height: 50px;
+    font-size: 25px;
+    border-color:  #000000;
+    text-align: center;
+    border: 1px solid #2a2a2a;
+
+
+}
+
+
+
+
+.tableHead,
+.tableHeadType {
+    text-transform: uppercase;
+    background-color: aqua;
+    color: #ffffff;
+    
+}
+
+
+.tableBodyType,
+.tableHeadType {
+     text-align: start;
+    width: 270px;
+    padding-left: 120px;
+}
+
+
+.tableBodyType {
+    text-transform: capitalize;
+}
+
